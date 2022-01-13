@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://naveen02504.github.io/csb-qmexm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://naveen02504.github.io/csb-qmexm/static/js/main.7e9f304e.chunk.js",
+    "main.js.map": "https://naveen02504.github.io/csb-qmexm/static/js/main.7e9f304e.chunk.js.map",
+    "runtime-main.js": "https://naveen02504.github.io/csb-qmexm/static/js/runtime-main.7a1c3a81.js",
+    "runtime-main.js.map": "https://naveen02504.github.io/csb-qmexm/static/js/runtime-main.7a1c3a81.js.map",
+    "static/js/2.45111154.chunk.js": "https://naveen02504.github.io/csb-qmexm/static/js/2.45111154.chunk.js",
+    "static/js/2.45111154.chunk.js.map": "https://naveen02504.github.io/csb-qmexm/static/js/2.45111154.chunk.js.map",
+    "index.html": "https://naveen02504.github.io/csb-qmexm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://naveen02504.github.io/csb-qmexm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.45111154.chunk.js.LICENSE.txt": "https://naveen02504.github.io/csb-qmexm/static/js/2.45111154.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a1c3a81.js",
+    "static/js/2.45111154.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7e9f304e.chunk.js"
+  ]
+}
